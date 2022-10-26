@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Umit_Ozbas\bin\Debug\Umit_Ozbas.exe.config
+C:\Users\HP\source\repos\Umit_Ozbas\bin\Debug\Umit_Ozbas.exe
+C:\Users\HP\source\repos\Umit_Ozbas\bin\Debug\Umit_Ozbas.pdb
+C:\Users\HP\source\repos\Umit_Ozbas\obj\Debug\Umit_Ozbas.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Umit_Ozbas\obj\Debug\Umit_Ozbas.Form1.resources
+C:\Users\HP\source\repos\Umit_Ozbas\obj\Debug\Umit_Ozbas.Properties.Resources.resources
+C:\Users\HP\source\repos\Umit_Ozbas\obj\Debug\Umit_Ozbas.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Umit_Ozbas\obj\Debug\Umit_Ozbas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Umit_Ozbas\obj\Debug\Umit_Ozbas.exe
+C:\Users\HP\source\repos\Umit_Ozbas\obj\Debug\Umit_Ozbas.pdb
